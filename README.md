@@ -1,2 +1,2 @@
 # Material_estudo
-Apostilas que criei enquanto fazia o curso de analista de testes.
+Apostilas que crio durante minhas jornadas de estudos, é uma maneira que tenho de fixar mais o aprendizado.
